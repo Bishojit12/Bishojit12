@@ -1,15 +1,15 @@
 ### Hi there 👋
-This is Bishojit Chakrobortty
-SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States.
+This is Bishojit Chakrobortty |
+SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States.|
 
 Contact Details:
                   📲 Cell Number/WhatsApp:   +880 1400220509 
-                  📨 Email:  bishojitchakrobortty3@gmail.com
+                  📨 Email:  bishojitchakrobortty3@gmail.com |
                   
                   
                   
 ***About me***
-Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Javascript, NodeJS on Agile-scrum environment, JIRA, SQL, Postman & web-service (RESTful).
+Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Javascript, NodeJS on Agile-scrum environment, JIRA, SQL, Postman & web-service (RESTful).|
 
 ✅ Technical Skills ✅
 
