@@ -8,7 +8,7 @@ Contact Details:
                   
                   
                   
-###About me###
+🧑‍✈️About me ✒️
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Javascript, NodeJS on Agile-scrum environment, JIRA, SQL, Postman & web-service (RESTful).
 
 ✅ Technical Skills ✅
