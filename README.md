@@ -12,6 +12,12 @@ Contact Details:
 🧑‍✈️About me ✒️
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Javascript, NodeJS on Agile-scrum environment, JIRA, SQL, Postman & web-service (RESTful).
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/subroto407/count.svg" />
+  </p>
+
 ✅ Technical Skills ✅
 
 🔹 Automation Framework Design.
