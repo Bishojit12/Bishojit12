@@ -1,12 +1,3 @@
-![image](https://github.com/Bishojit12/Bishojit12/assets/124592107/632335cc-0cbc-4b47-8b99-a9624799b4c0)
-
-
-
-
-
-
-
-
 
 ### Hi there 👋
 This is Bishojit Chakrobortty |
