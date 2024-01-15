@@ -1,16 +1,8 @@
-![image](https://github.com/Bishojit12/Bishojit12/assets/124592107/632335cc-0cbc-4b47-8b99-a9624799b4c0)
-
-
-
-
-
-
-
 
 
 ### Hi there 👋
 This is Bishojit Chakrobortty |
-SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States.
+SQA Engineer at Global iTech Solutions (GITS)| Queens, New York, United States.
 
 Contact Details:
                   📲 Cell Number/WhatsApp:   +880 1400220509 
@@ -26,7 +18,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 🔹 Automation Framework Design.
 🔹 Selenium WebDriver with Java.
 🔹 TestNG, Maven, NPM.
-🔹 Version Control tools- GitHub,GitLab.
+🔹 Version Control tools- GitHub, GitLab.
 🔹 Page Object Model with Page Factory and Data-Driven Concept.
 🔹 POSTMAN, RestAssured, RESTful API.
 🔹 Outstanding experience with manual testing using JIRA, Xray, Zephyr, and Excel.
