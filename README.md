@@ -15,7 +15,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/subroto407/count.svg" />
+  <img src="https://profile-counter.glitch.me/bishojit12/count.svg" />
   </p>
 
 ✅ Technical Skills ✅
